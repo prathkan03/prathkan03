@@ -1,6 +1,7 @@
 ## Hi there 👋
-My name is Pratham.
-<h3>When I code, I rely on</h3>
+My name is Pratham. I am a currently a Senior at Ohio State University studying Computer Science. I worked on many projects in the post, which you can see through my profile!
+
+<h3>Language & Tools</h3>
 <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="Javascript" src="https://img.shields.io/badge/-javascript-f7df1c?style=flat-square&logo=javascript&logoColor=black" />
