@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there! 👋
 My name is Pratham. I am a currently a Senior at Ohio State University studying Computer Science. I worked on many projects in the post, which you can see through my profile!
 
 <h3>Language & Tools</h3>
