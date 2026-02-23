@@ -1,5 +1,5 @@
 ## Hi there! 👋
-My name is Pratham. I am a currently a Senior at Ohio State University studying Computer Science. You can see my current and past project through my profile!
+My name is Pratham. I am a currently a Senior at Ohio State University studying Computer Science. You can see my current and past projects through my profile!
 
 <h3>Language & Tools</h3>
 <p>
